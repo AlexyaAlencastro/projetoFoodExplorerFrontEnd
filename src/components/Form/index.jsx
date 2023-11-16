@@ -3,7 +3,7 @@ import { Container } from "./style";
 import { TagItem } from "../../components/TagItem";
 import { Textarea } from "../Textarea";
 
-import imgUpload from "../../Assets/uploadImg.svg"
+import imgUpload from "../../assets/uploadImg.svg"
 
 export function Form(){
     return(

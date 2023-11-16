@@ -1,7 +1,7 @@
 import { Container, Content } from "./style";
 import { ButtonText } from "../../components/ButtonText";
 import { Button } from "../../components/Button";
-import buttonBack from "../../Assets/buttonBack.svg"
+import buttonBack from "../../assets/buttonBack.svg"
 import { Textarea } from "../../components/Textarea";
 
 import { Order } from '../../components/Order'

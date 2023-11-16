@@ -1,10 +1,10 @@
 import { Container } from "./style";  
 
-import imgPrato  from "../../Assets/imagem_prato_camarao.png"
-import imgButtonLess from "../../Assets/less.svg"    
-import imgButtonMore from "../../Assets/more.svg" 
-import favorites from "../../Assets/favorites.svg"
-import buttonEdit from "../../Assets/buttonEdit.svg"
+import imgPrato  from "../../assets/imagem_prato_camarao.png"
+import imgButtonLess from "../../assets/less.svg"    
+import imgButtonMore from "../../assets/more.svg" 
+import favorites from "../../assets/favorites.svg"
+import buttonEdit from "../../assets/buttonEdit.svg"
 
 import { Button } from "../Button";
 import { Ingredients } from "../Ingredients";

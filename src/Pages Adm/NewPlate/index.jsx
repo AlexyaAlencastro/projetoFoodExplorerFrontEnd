@@ -6,7 +6,7 @@ import { Button } from "../../components/Button";
 import { Form } from "../../components/Form";
 
 
-import imgButtonBack from "../../Assets/buttonBack.svg"
+import imgButtonBack from "../../assets/buttonBack.svg"
 import { useNavigate } from "react-router-dom";
 
 

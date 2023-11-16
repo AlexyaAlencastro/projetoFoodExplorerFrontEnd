@@ -3,10 +3,10 @@ import { Footer } from "../../components/Footer/index.jsx";
 import { Header } from "../../components/Header/index.jsx";
 import { Button } from "../../components/Button/index.jsx";
 import { ButtonText } from "../../components/ButtonText/index.jsx";
-import imgButtonBack from "../../Assets/buttonBack.svg"
-import imgDishes from "../../Assets/imagem_prato_camarao.png"
-import imgButtonLess from "../../Assets/less.svg"     
-import imgButtonMore from "../../Assets/more.svg" 
+import imgButtonBack from "../../assets/buttonBack.svg"
+import imgDishes from "../../assets/imagem_prato_camarao.png"
+import imgButtonLess from "../../assets/less.svg"     
+import imgButtonMore from "../../assets/more.svg" 
 import { Ingredients } from "../../components/Ingredients/index.jsx";
 import { useNavigate } from "react-router-dom";
 

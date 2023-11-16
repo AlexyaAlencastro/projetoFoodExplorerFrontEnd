@@ -2,10 +2,10 @@ import { useNavigate } from "react-router-dom";
 
 import { Container } from "./style";
 import { Button } from "../Button";
-import imgPrato  from "../../Assets/imagem_prato_camarao.png" 
-import imgButtonLess from "../../Assets/less.svg"     
-import imgButtonMore from "../../Assets/more.svg" 
-import favorites from "../../Assets/favorites.svg"
+import imgPrato  from "../../assets/imagem_prato_camarao.png" 
+import imgButtonLess from "../../assets/less.svg"     
+import imgButtonMore from "../../assets/more.svg" 
+import favorites from "../../assets/favorites.svg"
 
 
 export function CardsSnacks({title, isActive, ...rest}) {

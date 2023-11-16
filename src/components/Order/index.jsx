@@ -3,9 +3,9 @@ import { Button } from "../Button";
 import { Textarea } from "../Textarea";
 import { Ingredients } from "../Ingredients";
 
-import imgButtonLess from "../../Assets/less.svg"     
-import imgButtonMore from "../../Assets/more.svg"
-import imgSnack from "../../Assets/imagem_prato_camarao.png"
+import imgButtonLess from "../../assets/less.svg"     
+import imgButtonMore from "../../assets/more.svg"
+import imgSnack from "../../assets/imagem_prato_camarao.png"
 
 
 

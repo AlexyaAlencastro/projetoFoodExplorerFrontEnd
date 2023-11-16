@@ -1,5 +1,5 @@
 import { Container } from "./style";
-import banners from "../../Assets/banners.svg"
+import banners from "../../assets/banners.svg"
 
 export function Banners({ ...rest}){
         return(

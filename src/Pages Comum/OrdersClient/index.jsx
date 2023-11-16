@@ -3,7 +3,7 @@ import { Tables } from "../../components/Tables";
 import { Header } from "../../components/Header";
 import { Footer } from "../../components/Footer";
 import { ButtonText } from "../../components/ButtonText";
-import imgButtonBack from "../../Assets/buttonBack.svg"
+import imgButtonBack from "../../assets/buttonBack.svg"
 import { useNavigate } from "react-router-dom";
 
 

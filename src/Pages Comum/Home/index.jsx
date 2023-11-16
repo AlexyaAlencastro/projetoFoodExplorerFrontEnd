@@ -1,8 +1,8 @@
 import { Container } from "./style";
 import { Page } from "./style";
 
-import imgButtonBack from "../../Assets/buttonBack.svg"
-import imgButtonNext from "../../Assets/buttonNext.svg"
+import imgButtonBack from "../../assets/buttonBack.svg"
+import imgButtonNext from "../../assets/buttonNext.svg"
 
 import { Header } from "../../components/Header";
 import { Footer } from "../../components/Footer";

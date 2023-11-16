@@ -1,6 +1,6 @@
 import { Container } from "./style";
 import { Button } from "../../components/Button";
-import logoFood from "../../Assets/logofood.svg"
+import logoFood from "../../assets/logofood.svg"
 import { useNavigate } from "react-router-dom";
 
 

@@ -2,7 +2,7 @@ import { Container } from "./style";
 import { Button } from "../Button";
 import { FiTrash } from "react-icons/fi";
 
-import imgDish from "../../Assets/imagem_prato_camarao.png"
+import imgDish from "../../assets/imagem_prato_camarao.png"
 import { useNavigate } from "react-router-dom";
 
 export function Tables({title, table, ...rest}){

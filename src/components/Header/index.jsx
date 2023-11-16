@@ -1,15 +1,15 @@
 import { Container } from "./style"
-import logoFood from "../../Assets/logofood.svg"
+import logoFood from "../../assets/logofood.svg"
 import {FiSearch} from "react-icons/fi"
 import { InputHeader } from "../InputHeader"
 import { Button } from "../Button"
 import { FiShoppingCart } from "react-icons/fi"
 import { useNavigate } from "react-router-dom"
-import hamburguer from "../../Assets/hamburguer.svg"
+import hamburguer from "../../assets/hamburguer.svg"
 
 
-import buttonLogout from "../../Assets/buttonlogout.svg"
-import buttonOrder from "../../Assets/buttonOrders.svg"
+import buttonLogout from "../../assets/buttonlogout.svg"
+import buttonOrder from "../../assets/buttonOrders.svg"
 
 export function Header({isAdmin = true}){
 
